@@ -1,0 +1,5 @@
+{
+  "name": "My Note",
+  "description": "An advanced, aesthetically pleasing note-taking application with rich text capabilities, cloud sync via Firebase, and dark/light mode.",
+  "requestFramePermissions": []
+}
